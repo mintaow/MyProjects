@@ -17,4 +17,4 @@ See the notebook for more details.
 3. The above sentiment patterns remain valid across the time
 4. The relevant topics and frequently-mentioned words for the two sentiment classes are different.
 5. Cryptocurrency is a complex topic and comprises of many sub-topics
-6. It is difficult to predict future sentiment trends using merely its own historical values (as suggested by ARMA, FB Prophet and the Exponential Smoothing family)
+6. It is difficult to predict future sentiment trends using merely its own historical values (as suggested by ARMA, FB Prophet and the Exponential Smoothing family)
