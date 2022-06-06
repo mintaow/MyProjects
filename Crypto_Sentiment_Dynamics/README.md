@@ -1,4 +1,7 @@
 # Congruent or Polarized? Mining Opinion Dynamics towards Cryptocurrency on Twitter
+## Abstract
+This project examined the opinion polarity and sentiment dynamics toward cryptocurrency using 4.75 million relevant tweets, and revealed that ~73% of the subjective expressions are positive and the sentiment intensity is also stronger for crypto-favoring tweets. In addition, the relevant topics and frequently-mentioned words for the two sentiment classes are different. The positive tweets are talking about general and futuristic terms such as "technology", "mobile", and "millennium", while the negative tweets frequently mention "stop loss", ”bubble“, and "hack", which conveys a sense of pessimistic and insecurity.
+
 ## Research Question
 1. RQ1: How polarized are people’s opinions towards cryptocurrency? (Overview)
 2. RQ2: How does the polarity of cryptocurrency opinions on Twitter evolve over time? (Past)
