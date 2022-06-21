@@ -1,5 +1,5 @@
 # MyProjects (To be updated)
-My Own Data Science Projects in Social Network, Supply Chain, e-Commerce and Short-form Videos  
+My Own Data Science Projects in Social Media Analysis, Computational Social Science, Cloud Computing, and Product/Market Analytics.  
 
 | Project Name | Category | Description | 
 | ------------- | ------------- | ------------- |
